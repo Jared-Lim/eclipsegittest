@@ -12,9 +12,14 @@ public class scream {
 		wail wl = new wail();
 		System.out.println(wl.weep());
 		System.out.println("THE HILLS ARE ALIIIIVE");
+		System.out.println(scr.onemore());
 	}
 	
 	public String cry(){
 		return "CRYYY";
+	}
+	
+	public String onemore(){
+		return "TIME";
 	}
 }
