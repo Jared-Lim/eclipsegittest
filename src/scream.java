@@ -15,10 +15,18 @@ public class scream {
 		System.out.println(scr.onemore());
 	}
 	
+	/**
+	 * CRY FOR ME
+	 * @return CRYYY
+	 */
 	public String cry(){
 		return "CRYYY";
 	}
 	
+	/**
+	 * DO IT AGAIN
+	 * @return ARGGHHH
+	 */
 	public String onemore(){
 		return "TIME";
 	}
