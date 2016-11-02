@@ -9,6 +9,8 @@ public class scream {
 		System.out.println("SCREAAAAM");
 		scream scr = new scream();
 		System.out.println(scr.cry());
+		wail wl = new wail();
+		System.out.println(wl.weep());
 	}
 	
 	public String cry(){
