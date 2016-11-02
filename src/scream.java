@@ -11,6 +11,7 @@ public class scream {
 		System.out.println(scr.cry());
 		wail wl = new wail();
 		System.out.println(wl.weep());
+		System.out.println("THE HILLS ARE ALIIIIVE");
 	}
 	
 	public String cry(){
