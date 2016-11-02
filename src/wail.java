@@ -4,6 +4,6 @@ public class wail {
 		return "WEEEEP";
 	}
 	public String sing(){
-		return "SIIIIIING";
+		return "SIIIING";
 	}
 }

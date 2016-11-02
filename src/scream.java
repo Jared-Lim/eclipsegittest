@@ -15,6 +15,6 @@ public class scream {
 	}
 	
 	public String cry(){
-		return "CRYYYY";
+		return "CRYYY";
 	}
 }
